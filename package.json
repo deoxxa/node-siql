@@ -1,6 +1,6 @@
 {
   "name": "siql",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Siphon.IO Query Language",
   "main": "index.js",
   "scripts": {
