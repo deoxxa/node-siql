@@ -1,0 +1,24 @@
+{
+  "name": "siql",
+  "version": "0.0.0",
+  "description": "Siphon.IO Query Language",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/node-siql.git"
+  },
+  "keywords": [
+    "siql",
+    "query",
+    "siphon",
+    "siphon.io"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.10.0"
+  }
+}
